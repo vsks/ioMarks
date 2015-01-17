@@ -12,4 +12,4 @@
 var ioToken = "0ceb21edbfbc00680f9c3c061b5d731a";
 // ----------------------------------------------
 ```
-- open [index.html]() in browser and search something with some or all categories selected.
+- open [index.html](#) in browser and search something with some or all categories selected.
