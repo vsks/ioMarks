@@ -2,6 +2,9 @@
 ## About
 [ioMarks](http://iomarks.vaskas.lt) - unofficial simple front end for [saved.io](http://saved.io) bookmarking website. It lets you perform Google search for content only in your bookmarked websites. Works in local computer or on any server. ioMarks uses responsive design so you can also use it form your tablets and smartphones.
 
+## Live preview
+You can check live demo at [iomarks.vaskas.lt](iomarks.vaskas.lt)
+
 ## Usage
 - Create account at [saved.io](http://saved.io);
 - at the bottom of saved.io site there are link to generate your API key, generate one and copy it;
