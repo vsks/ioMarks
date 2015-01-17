@@ -1,6 +1,10 @@
 # ioMarks
 ## About
-[ioMarks](http://iomarks.vaskas.lt) - unofficial simple front end for [saved.io](http://saved.io) bookmarking website. It lets you perform Google search for content only in your bookmarked websites. Works in local computer or on any server. ioMarks uses responsive design so you can use it from your tablets and smartphones.
+[ioMarks](http://iomarks.vaskas.lt) - unofficial simple front end for [saved.io](http://saved.io) bookmarking website (by Anthony Feint). It lets you perform Google search for content only in your bookmarked websites. Works in local computer or on any server. ioMarks uses responsive design so you can use it from your tablets and smartphones.
+
+As I use bookmarks as long-term memories, I've always forget what I've already bookmarked
+and I'm searching same things again and again (and bookmarking them too). So I decided to write tool
+which lets me search for content within my bookmarks before performing deep search.
 
 ## Live preview
 You can check live demo at [iomarks.vaskas.lt](http://iomarks.vaskas.lt)
