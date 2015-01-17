@@ -1,5 +1,8 @@
 $(document).ready(function(){
+
+  // ------ Replace this API token with yours -----
   var ioToken = "0ceb21edbfbc00680f9c3c061b5d731a";
+  // ----------------------------------------------
   var ioAPI = "http://devapi.saved.io/v1/";
   var urls = [ioAPI + "lists", ioAPI + "bookmarks"];
 
