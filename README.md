@@ -11,12 +11,14 @@ You can check live demo at [iomarks.vaskas.lt](http://iomarks.vaskas.lt)
 
 ## Usage
 - Create account at [saved.io](http://saved.io);
-- at the bottom of saved.io site there are link to generate your API key, generate one and copy it;
+- (see note at the bottom) at the bottom of saved.io site there are link to generate your API key, generate one and copy it;
 - clone this repo;
-- in the [js/main.js](https://github.com/andrius-v/ioMarks/blob/master/js/main.js) file replace token string with your API token:
+- (see note at the bottom) in the [js/main.js](https://github.com/andrius-v/ioMarks/blob/master/js/main.js) file replace token string with your API token:
 ```javascript
 // ------ Replace this API token with yours -----
 var ioToken = "0ceb21edbfbc00680f9c3c061b5d731a";
 // ----------------------------------------------
 ```
 - open [index.html](https://github.com/andrius-v/ioMarks/blob/master/index.html) in browser and search something with some or all categories selected.
+
+* IMPORTANT NOTE: recently I saw that saved.io changed its design and API generation isn't accessible (you can still access API description directly by this link (http://saved.io/api.php), but link to key generation returns errors), so if you want to use it - you should ask API key from saved.io creator.
