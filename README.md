@@ -21,4 +21,4 @@ var ioToken = "0ceb21edbfbc00680f9c3c061b5d731a";
 ```
 - open [index.html](https://github.com/andrius-v/ioMarks/blob/master/index.html) in browser and search something with some or all categories selected.
 
-* IMPORTANT NOTE: recently I saw that saved.io changed its design and API generation isn't accessible (you can still access API description directly by this link (http://saved.io/api.php), but link to key generation returns errors), so if you want to use it - you should ask API key from saved.io creator.
+* IMPORTANT NOTE: recently I saw that saved.io changed its design and API generation isn't accessible (you can still access API description directly by this link http://saved.io/api.php, but link to key generation returns errors), so if you want to use it - you should ask API key from saved.io creator.
